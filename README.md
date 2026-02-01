@@ -1,7 +1,7 @@
 # ai-image-detection-behavior-analysis
 An evidence-based analysis of a publicly available AI image detection model, evaluating false positives, confidence instability, and real-world limitations using real photographs and AI-generated images.
 
-# AI Image Detection – Failure Analysis
+# AI Image Detection – Behavior Analysis
 
 ## Overview
 This project presents an evidence-based analysis of a publicly available AI image detection model that attempts to classify images as AI-generated or human-created. Instead of focusing on accuracy metrics or model optimization, the goal is to evaluate real-world behavior, false positives, confidence instability, and practical limitations when such models are applied outside controlled benchmarks.
