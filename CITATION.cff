@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "AI Image Detection – Failure Analysis"
+authors:
+  - name: Your Name
+version: 1.0.0
+date-released: 2026-02-01
+references:
+  - type: software
+    title: "AI Image Detection Model"
+    authors:
+      - name: CapCheck
+    year: 2024
+    url: https://huggingface.co/capcheck/ai-image-detection
+    notes: "Based on dima806/ai_vs_real_image_detection, fine-tuned from google/vit-base-patch16-224-in21k"
