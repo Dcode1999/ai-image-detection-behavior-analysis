@@ -100,9 +100,11 @@ These models should be treated strictly as **experimental and probabilistic tool
 ---
 
 ## Live Demo
-A live demonstration of this model is available via a Hugging Face Space, allowing users to test images and observe prediction confidence and instability in real time.
+A live demonstration of this model is available via a Hugging Face Space and Google Colab, allowing users to test images and observe prediction confidence and instability in real time.
 
 🔗 Hugging Face Space: https://huggingface.co/spaces/SoulWolf2023/ai-image-detection-demo
+
+🔗 Google Colab: https://colab.research.google.com/drive/10kZLddlEiDuiATPzXPVzHPbA5SM9TlZr?authuser=0#scrollTo=FZHXlPZ9zsUP
 
 ---
 
