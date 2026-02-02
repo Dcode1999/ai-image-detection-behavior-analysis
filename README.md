@@ -104,7 +104,7 @@ A live demonstration of this model is available via a Hugging Face Space and Goo
 
 🔗 Hugging Face Space: https://huggingface.co/spaces/SoulWolf2023/ai-image-detection-demo
 
-🔗 Google Colab: https://colab.research.google.com/drive/10kZLddlEiDuiATPzXPVzHPbA5SM9TlZr?authuser=0#scrollTo=FZHXlPZ9zsUP
+🔗 Google Colab: https://colab.research.google.com/drive/10kZLddlEiDuiATPzXPVzHPbA5SM9TlZr?usp=sharing
 
 ---
 
